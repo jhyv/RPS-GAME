@@ -1,0 +1,17 @@
+0 3
+1 4 Harry
+2 3 Potter Meghan
+2 50 Jhayvee Kiks
+1 16 Eloise
+2 10 Jullie Dino
+1 12 Budit
+2 20 Jaya Lany
+0 10
+1 10 Helen
+2 10 Janjan Georgia
+2 15 Wina Ancela
+1 12 Peter
+2 60 Patrick Karl
+2 70 Kenlei Carl
+2 80 Jay Brix
+1 1000 JV

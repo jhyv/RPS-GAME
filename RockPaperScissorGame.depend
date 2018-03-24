@@ -1,0 +1,139 @@
+# depslib dependency file v1.0
+1519473250 source:d:\c++\rockpaperscissorgame\main.cpp
+	<iostream>
+	"Game.h"
+
+1519473268 source:d:\c++\rockpaperscissorgame\src\hand.cpp
+	"Hand.h"
+
+1519470529 d:\c++\rockpaperscissorgame\include\hand.h
+	<string>
+	<iostream>
+
+1519469864 source:d:\c++\rockpaperscissorgame\src\paper.cpp
+	"Paper.h"
+
+1519469839 d:\c++\rockpaperscissorgame\include\paper.h
+	"Hand.h"
+
+1519473348 source:d:\c++\rockpaperscissorgame\src\player.cpp
+	"Player.h"
+
+1519473092 d:\c++\rockpaperscissorgame\include\player.h
+	"Hand.h"
+	"Rock.h"
+	"Paper.h"
+	"Scissor.h"
+	<cstdlib>
+	<iostream>
+
+1519469813 d:\c++\rockpaperscissorgame\include\rock.h
+	"Hand.h"
+
+1519470525 d:\c++\rockpaperscissorgame\include\scissor.h
+	"Hand.h"
+
+1519469818 source:d:\c++\rockpaperscissorgame\src\rock.cpp
+	"Rock.h"
+
+1519469892 source:d:\c++\rockpaperscissorgame\src\scissor.cpp
+	"Scissor.h"
+
+1519473318 source:d:\c++\rockpaperscissorgame\src\humanplayer.cpp
+	"HumanPlayer.h"
+
+1519470962 d:\c++\rockpaperscissorgame\include\humanplayer.h
+	"Player.h"
+
+1519473507 source:d:\c++\rockpaperscissorgame\src\aiplayer.cpp
+	"AIPlayer.h"
+
+1519471448 d:\c++\rockpaperscissorgame\include\aiplayer.h
+	"Player.h"
+
+1519472639 d:\c++\rockpaperscissorgame\include\game.h
+	"Rock.h"
+	"Paper.h"
+	"Scissor.h"
+	"HumanPlayer.h"
+	"AIPlayer.h"
+	<cstdlib>
+	<cstdlib>
+	<iostream>
+
+1519473483 source:d:\c++\rockpaperscissorgame\src\game.cpp
+	"Game.h"
+
+1521554201 source:c:\jhayvee\c ++\rockpaperscissorgame\src\aiplayer.cpp
+	"AIPlayer.h"
+
+1521552911 c:\jhayvee\c ++\rockpaperscissorgame\include\aiplayer.h
+	"Player.h"
+
+1521552975 c:\jhayvee\c ++\rockpaperscissorgame\include\player.h
+	"Hand.h"
+	"Rock.h"
+	"Paper.h"
+	"Scissor.h"
+	<cstdlib>
+	<iostream>
+	<ctype.h>
+	<stdio.h>
+	<ctime>
+
+1521553888 c:\jhayvee\c ++\rockpaperscissorgame\include\hand.h
+	<string>
+	<iostream>
+	<ctype.h>
+
+1521553916 c:\jhayvee\c ++\rockpaperscissorgame\include\rock.h
+	"Hand.h"
+
+1521553926 c:\jhayvee\c ++\rockpaperscissorgame\include\paper.h
+	"Hand.h"
+
+1521553910 c:\jhayvee\c ++\rockpaperscissorgame\include\scissor.h
+	"Hand.h"
+
+1521815048 source:c:\jhayvee\c ++\rockpaperscissorgame\src\game.cpp
+	"Game.h"
+
+1521813357 c:\jhayvee\c ++\rockpaperscissorgame\include\game.h
+	"Rock.h"
+	"Paper.h"
+	"Scissor.h"
+	"HumanPlayer.h"
+	"AIPlayer.h"
+	<cstdlib>
+	<cstdlib>
+	<iostream>
+	<sstream>
+
+1521552952 c:\jhayvee\c ++\rockpaperscissorgame\include\humanplayer.h
+	"Player.h"
+
+1521552829 source:c:\jhayvee\c ++\rockpaperscissorgame\src\hand.cpp
+	"Hand.h"
+
+1521552841 source:c:\jhayvee\c ++\rockpaperscissorgame\src\humanplayer.cpp
+	"HumanPlayer.h"
+
+1521554088 source:c:\jhayvee\c ++\rockpaperscissorgame\src\paper.cpp
+	"Paper.h"
+
+1521552861 source:c:\jhayvee\c ++\rockpaperscissorgame\src\player.cpp
+	"Player.h"
+
+1521554061 source:c:\jhayvee\c ++\rockpaperscissorgame\src\rock.cpp
+	"Rock.h"
+
+1521554013 source:c:\jhayvee\c ++\rockpaperscissorgame\src\scissor.cpp
+	"Scissor.h"
+
+1521816167 source:c:\jhayvee\c ++\rockpaperscissorgame\main.cpp
+	<iostream>
+	<sstream>
+	<fstream>
+	<string>
+	"Game.h"
+

@@ -1,0 +1,17 @@
+Game 1: 1 1 Draw
+Game 2: 1 1 Draw
+Game 3: 1 1 Draw
+Game 4: 23 13 Jhayvee
+Game 5: 5 5 Draw
+Game 6: 5 3 Jullie
+Game 7: 4 3 Budit
+Game 8: 9 5 Jaya
+Game 9: 5 3 AI-2
+Game 10: 2 3 AI-2
+Game 11: 5 3 Janjan
+Game 12: 7 3 Wina
+Game 13: 4 3 Peter
+Game 14: 28 13 Patrick
+Game 15: 31 16 Kenlei
+Game 16: 36 18 Jay
+Game 17: 350 345 JV
